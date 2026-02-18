@@ -1,10 +1,11 @@
+#include <GLUT/glut.h>
+#include <OpenGL/gl.h>
 #include <iostream>
 #include <vector>
 #include <cmath>
 #include <random>
 #include <algorithm>
 #include <omp.h>
-#include <GL/glut.h>
 
 using namespace std;
 
